@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(131, 211, 243);/* фоновый цвет  */
+    font-size: 30px; /* размер текста */
+}
+
+
+header h1{ 
+    color: rgb(0, 0, 0);  /* стиль для смены цвета текста */
+    border: 4mm ridge rgba(0, 162, 255, 0.6); /*  стиль для создания рамки*/
+    text-align: center; /* выравнивание текста */
+    background-color: rgb(131, 211, 243);/* фоновый цвет  */
+    padding-top: 10px;  /* внутренний отспут  */
+    margin-left: 20px; /* внешний отступ */
+    width: 400px; /* ширина объектов */
+
+}
+
+main img{
+    width: 500px; /* ширина объекта  */
+    height: 500px;  /* ширина объекта  */
+    margin-left: 100px;  /* ширина объекта  */
+
+}
+
+td{
+    
+    border: 4px solid blue;
+}
+th{
+    background-color: peru;
+    border: 4px solid blue;
+}
+header a{
+    font-size: 20px; /* размер текста */
+    width: 150px;
+    border: 3px solid rgb(131, 211, 243);
+    margin-left: 10px;
+    background-color: rgb(131, 211, 243);
+    border-radius: 20px;
+    padding: 3px;
+}
